@@ -1,0 +1,4 @@
+test,n,stat,p,effect,effect_name
+H4a Kruskal-Wallis response rate ~ city (listing level),150898,1970.2059894070305,0.0,0.01299775985768935,epsilon2
+H4a Kruskal-Wallis response rate ~ city (host level),73712,1282.3998361713632,1.957131470566797e-270,0.017277683593001046,epsilon2
+H4b Chi-square superhost x city,279434,6816.42381747284,0.0,0.15618476513457297,Cramer's V

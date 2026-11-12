@@ -1,0 +1,3 @@
+step,rows_before,rows_after,rows_removed
+Remove non-positive prices (price <= 0),279712,279599,113
+Remove accommodates = 0 (invalid capacity),279599,279599,0

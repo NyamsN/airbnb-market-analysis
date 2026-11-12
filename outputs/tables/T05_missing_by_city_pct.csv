@@ -1,0 +1,11 @@
+city,district,host_response_rate,host_acceptance_rate,bedrooms,review_scores_rating
+Bangkok,100.0,45.5,42.9,11.1,42.2
+Cape Town,100.0,26.4,26.0,7.2,29.6
+Hong Kong,100.0,16.2,23.7,17.4,46.7
+Istanbul,100.0,35.5,41.0,8.3,54.2
+Mexico City,100.0,28.0,24.5,4.0,27.8
+New York,0.0,50.0,39.5,9.7,27.7
+Paris,100.0,63.9,50.7,20.7,25.7
+Rio de Janeiro,100.0,30.1,35.8,6.6,39.4
+Rome,100.0,41.2,29.3,3.2,24.4
+Sydney,100.0,60.0,53.9,6.6,33.5

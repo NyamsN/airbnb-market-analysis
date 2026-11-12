@@ -1,0 +1,20 @@
+check,result,treatment
+Listings rows x columns,"279,712 x 33",Matches brief
+Reviews rows x columns,"5,373,143 x 4",Matches brief
+listing_id duplicates,0,Valid primary key
+Repeated review_id values,160,11 Rome listing pairs share carried-over reviews; kept; composite key used
+"(listing_id, review_id) duplicates",0,Composite key unique
+Orphan reviews,0,Referential integrity holds
+Listings with no review record,86156,30.8%; review_count set to 0
+price <= 0,113,Removed
+accommodates = 0,85,Removed
+Prices outside city 1st-99th pct,5094,Kept and flagged; robustness re-run without them
+district missing,86.8%,Only New York populated; neighbourhood used elsewhere
+host_response_rate missing,46.0%,Not imputed; 'not reported' category / complete cases
+host_acceptance_rate missing,40.4%,Not imputed; complete cases
+bedrooms missing,10.5%,Complete cases for bedroom analyses
+review_scores_rating missing,32.7%,Mostly unreviewed listings; complete cases
+Currency field,absent,Within-city analysis + currency-free price index
+Text encoding,artefacts in listing names,Names not used
+Review date range,2008-11-16 to 2021-03-01,COVID-19 period included
+Final analytical listings,"279,599",After removing invalid rows

@@ -1,0 +1,11 @@
+listing_id,city,neighbourhood,room_type,price,currency,review_count,review_scores_rating
+17222007,Paris,Enclos-St-Laurent,Private room,76,EUR,891,94.0
+8637229,Hong Kong,Islands,Private room,629,HKD,828,96.0
+1249964,Paris,Bourse,Private room,81,EUR,796,97.0
+32011332,Paris,Enclos-St-Laurent,Hotel room,27,EUR,762,87.0
+2399029,Rome,I Centro Storico,Private room,39,EUR,754,93.0
+32678719,New York,Theater District,Hotel room,77,USD,753,85.0
+470817,Rome,I Centro Storico,Private room,35,EUR,717,86.0
+24745583,Paris,Vaugirard,Hotel room,36,EUR,710,86.0
+865289,Rome,I Centro Storico,Entire place,26,EUR,702,85.0
+162163,Paris,Elysee,Entire place,96,EUR,700,86.0

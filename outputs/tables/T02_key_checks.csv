@@ -1,0 +1,11 @@
+,value
+listings_rows,279712
+listing_id_duplicates,0
+reviews_rows,5373143
+review_id_unique_values,5372983
+review_id_duplicated_values,160
+listing_id+review_id_duplicates,0
+fully_identical_review_rows,0
+orphan_reviews (listing_id not in Listings),0
+listings_with_no_review_records,86156
+listings_with_review_records,193556
